@@ -13,8 +13,8 @@ module.exports = {
   API_TOKEN_VALUE: 'Api_token_value',
   GUEST_SPACEID: 1,
   MAX_VALUE: 2147483647,
-  MAIN_PATH_BASE: '../../../../src/base/main',
-  MAIN_PATH_NODE: '../../../../src/node/main',
+  MAIN_PATH_BASE: '../../../../cjs/base/main', 
+  MAIN_PATH_NODE: '../../../../cjs/node/main',
   USER_AGENT: `${PACKAGE_FILE.name}/${PACKAGE_FILE.version}`,
   ERROR_MESSAGE: '../../../resource/kintoneErrorMessage.json',
   getPasswordAuth: (userName, password) => {
