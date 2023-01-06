@@ -32,7 +32,7 @@
     "src"
   ],
   "devDependencies": {
-    "@babel/core": "7.0.0",
+    "@babel/core": "7.20.12",
     "@babel/preset-env": "7.0.0",
     "@cybozu/eslint-config": "3.0.1",
     "babel-loader": "8.0.2",
