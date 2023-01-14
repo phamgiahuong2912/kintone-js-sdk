@@ -40,7 +40,7 @@
     "jest": "24.8.0",
     "nock": "9.6.0",
     "webpack": "4.17.2",
-    "webpack-cli": "3.1.0"
+    "webpack-cli": "3.3.12"
   },
   "keywords": [
     "kintone",
